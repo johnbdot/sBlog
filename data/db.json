@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus mauris a diam maecenas sed. Viverra adipiscing at in tellus integer feugiat. Pretium fusce id velit ut tortor pretium viverra suspendisse. Eget nulla facilisi etiam dignissim diam quis enim. Ut venenatis tellus in metus vulputate eu scelerisque felis. Purus sit amet luctus venenatis lectus. Consequat mauris nunc congue nisi vitae. Imperdiet proin fermentum leo vel orci porta non. Consectetur adipiscing elit duis tristique. Blandit aliquam etiam erat velit scelerisque in dictum non consectetur. Elementum tempus egestas sed sed risus. Euismod in pellentesque massa placerat duis ultricies lacus. Lectus magna fringilla urna porttitor rhoncus.",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "How to be cool",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus mauris a diam maecenas sed. Viverra adipiscing at in tellus integer feugiat. Pretium fusce id velit ut tortor pretium viverra suspendisse. Eget nulla facilisi etiam dignissim diam quis enim. Ut venenatis tellus in metus vulputate eu scelerisque felis. Purus sit amet luctus venenatis lectus. Consequat mauris nunc congue nisi vitae. Imperdiet proin fermentum leo vel orci porta non. Consectetur adipiscing elit duis tristique. Blandit aliquam etiam erat velit scelerisque in dictum non consectetur. Elementum tempus egestas sed sed risus. Euismod in pellentesque massa placerat duis ultricies lacus. Lectus magna fringilla urna porttitor rhoncus.",
+      "likes": 15
+    },
+    {
+      "id": 1,
+      "title": "New tutorial coming soon",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tellus mauris a diam maecenas sed. Viverra adipiscing at in tellus integer feugiat. Pretium fusce id velit ut tortor pretium viverra suspendisse. Eget nulla facilisi etiam dignissim diam quis enim. Ut venenatis tellus in metus vulputate eu scelerisque felis. Purus sit amet luctus venenatis lectus. Consequat mauris nunc congue nisi vitae. Imperdiet proin fermentum leo vel orci porta non. Consectetur adipiscing elit duis tristique. Blandit aliquam etiam erat velit scelerisque in dictum non consectetur. Elementum tempus egestas sed sed risus. Euismod in pellentesque massa placerat duis ultricies lacus. Lectus magna fringilla urna porttitor rhoncus.",
+      "likes": 20
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "Do you prefer Vue or React?",
+      "answerA": "Vue",
+      "answerB": "React"
+    }
+  ]
+}
